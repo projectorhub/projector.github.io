@@ -3,10 +3,10 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Dangbei Freedo vs XGIMI Halo+ Comparison</title>
 </head>
 <body>
-  <h1>Dangbei Freedo vs XGIMI Halo+ Comparison</h1>
+  <h1>Dangbei Freedo vs XGIMI Halo+: Which Portable Projector Should You Buy in 2025?
+</h1>
 
   <h2>Introduction</h2>
   <p>Portable projectors are gaining popularity as compact entertainment powerhouses. Whether you’re watching movies under the stars or streaming your favorite shows in a small apartment, having a projector that balances portability, image quality, and smart features is essential. In this comparison, we look at two of the best options in 2025: the Dangbei Freedo and the XGIMI Halo+.</p>
