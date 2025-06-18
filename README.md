@@ -10,11 +10,18 @@
 
   <h2>Introduction</h2>
   <p>Portable projectors are gaining popularity as compact entertainment powerhouses. Whether you’re watching movies under the stars or streaming your favorite shows in a small apartment, having a projector that balances portability, image quality, and smart features is essential. In this comparison, we look at two of the best options in 2025: the Dangbei Freedo and the XGIMI Halo+.</p>
+  
 
   <h2>Product Overview</h2>
 
   <h3>Dangbei Freedo</h3>
   <p>The Dangbei Freedo is a lightweight, portable projector powered by Google TV. It stands out with a built-in 165° gimbal stand, a built-in battery offering up to 2.5 hours of video playtime, and licensed Netflix support. It features 6W 360° surround sound speakers and supports advanced image auto-adjustment.</p>
+  <p>
+  <a href="https://amzn.to/3ZdzUOo" target="_blank" style="display:inline-block; background-color:#ff6600; color:#fff; padding:10px 20px; text-decoration:none; border-radius:5px;">
+    Shop Now
+  </a>
+</p>
+
   <img src="https://www.projector1.com/wp-content/uploads/2025/06/1-9-1024x576.png" alt="Dangbei Freedo" />
 
   <h3>XGIMI Halo+</h3>
