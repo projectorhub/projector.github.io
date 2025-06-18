@@ -15,11 +15,11 @@
 
   <h3>Dangbei Freedo</h3>
   <p>The Dangbei Freedo is a lightweight, portable projector powered by Google TV. It stands out with a built-in 165° gimbal stand, a built-in battery offering up to 2.5 hours of video playtime, and licensed Netflix support. It features 6W 360° surround sound speakers and supports advanced image auto-adjustment.</p>
-  <img src="https://www.amazon.com/Dangbei-Portable-Projector-Licensed-Bluetooth/dp/B0DM8X8L1P?th=1" alt="Dangbei Freedo" />
+  <img src="https://www.projector1.com/wp-content/uploads/2025/06/1-9-1024x576.png" alt="Dangbei Freedo" />
 
   <h3>XGIMI Halo+</h3>
   <p>The XGIMI Halo+ is known for its bright 700 ISO Lumens projection and Harman Kardon-tuned dual 5W speakers. It runs Android TV 10.0 and supports all major streaming apps—except for native Netflix. With a built-in battery providing up to 2.5 hours of movie playback and the same 4-point auto adjustment suite, it targets users who want brighter visuals and richer audio.</p>
-  <img src="https://www.amazon.com/XGIMI-Projector-Integrated-Avoidance-Compatible/dp/B09D39TCFK?th=1" alt="XGIMI Halo+" />
+  <img src="https://www.projector1.com/wp-content/uploads/2025/06/2-8-1024x576.png" alt="XGIMI Halo+" />
 
   <h2>Key Specifications Comparison Table</h2>
   <table border="1" cellpadding="8">
@@ -78,4 +78,14 @@
   <p>Both are strong contenders, but Freedo excels in user-friendliness, while Halo+ leans into performance.</p>
 
   <h2>Conclusion</h2>
-  <p>Dangbei Freedo and XGIMI Halo
+  <p>Dangbei Freedo and XGIMI Halo+ are top-tier choices in the portable projector market. Your ideal option depends on what matters most: Freedo is the Netflix-and-go projector with reliable battery life and smart portability. Halo+ delivers brighter visuals and cinematic sound for those focused on premium display and audio.</p>
+
+  <h2>FAQs</h2>
+  <p><strong>Q1: Can both play Netflix?</strong><br>Only Dangbei Freedo offers native Netflix access. XGIMI Halo+ does not officially support Netflix.</p>
+  <p><strong>Q2: Do both have batteries?</strong><br>Yes. Both Dangbei Freedo and XGIMI Halo+ feature built-in batteries that support up to 2.5 hours of video playback—enough for most movies without needing a power source.</p>
+  <p><strong>Q3: Which is brighter?</strong><br>XGIMI Halo+ with 700 ISO Lumens.</p>
+  <p><strong>Q4: Do I need a tripod?</strong><br>No for Freedo (built-in gimbal), yes for Halo+ (requires flat surface or mount).</p>
+  <p><strong>Q5: Do both have auto adjustment?</strong><br>Yes, both support auto focus, keystone correction, screen alignment, and obstacle avoidance.</p>
+
+</body>
+</html>
