@@ -1,6 +1,6 @@
 <section data-role="paragraph" class="_135editor">
 	<h1 style="font-size:17px;">
-		<strong><span style=";font-size:32px;font-family:宋体;"><span style="font-family:宋体;"><strong>Dangbei Atom vs XGIMI MoGo 4 Laser: Which Portable Laser Projector Is Better?</strong></span></span></strong>
+		<strong><span style=";font-size:32px;font-family:宋体;"><span style="font-family:宋体;"><strong>025 Comparison: Dangbei Atom or XGIMI MoGo 4 Laser – Which One Wins?</strong></span></span></strong>
 	</h1>
 	<p >
 		<br/>
